@@ -23,7 +23,7 @@ Json: dummy Backend
 Visual studio: Angular IDE 
 
 
-##ScreenShots of the Application
+## ScreenShots of the Application
 
 ![Screenshot (144)](https://user-images.githubusercontent.com/72186463/189548645-64d43b99-4143-4535-aed2-1df76adae052.png)
 ![Screenshot (145)](https://user-images.githubusercontent.com/72186463/189548650-2f9b131c-daf2-4933-9d74-f778015cf3bf.png)
